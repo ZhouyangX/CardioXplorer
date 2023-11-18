@@ -1,4 +1,4 @@
-# CardioXplorer
+# CardioXplorer: An Open-Source Catheter Robot
 
 
 
