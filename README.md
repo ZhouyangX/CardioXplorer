@@ -54,7 +54,7 @@ The design and validation are described in the following publication:
 Reference article - Details to be added upon acceptance
 
 ## License
-The contents of this repository are made available under the MIT License. See LICENSE for details.
+The contents of this repository are made available under the CC License. See LICENSE for details.
 
 
 ## Contributing
