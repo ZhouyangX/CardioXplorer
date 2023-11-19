@@ -47,8 +47,7 @@ To build the robot system:
 | Mil-Max Pogo Connectors Pair | 1 | $5 |
 | Hall Effect Sensor w/ Magnets | 1 | $10 |
 | TMC5160 Stepper Motor Driver | 2 | $30 |
-| --- | --- | -- |
-| Estimated Total Cost: | - | $607 |
+| **Estimated Total Cost:** | **-** | **$607** |
 
 ## Publications
 The design and validation are described in the following publication:
