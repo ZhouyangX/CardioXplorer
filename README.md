@@ -1,6 +1,6 @@
 # CardioXplorer: An Open-Source Catheter Robot
 
-This repository contains open-source resources for a modular robotic system, designed for catheter ablation procedures. However, the modular design of the robot encourages the application of the system in various fields requiring the use of catheters.
+This repository contains open-source resources for a modular robotic system, designed for catheter ablation procedures, and validated by trainees and cardiologists. However, the modular design of the robot encourages the application of the system in various fields requiring the use of catheters.
 
 ## Overview
 
