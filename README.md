@@ -29,7 +29,7 @@ To build the robot system:
 | PETG 3D Printer Filament | 50g | $5 |
 | TPU 3D Printer Filament | 50g | $5 |
 | Nema 17 Stepper Motor | 1 | $15 |
-| Nema 8 Stepper Motor w/ 19:1 Gearbox | 1kg | $10 |
+| Nema 8 Stepper Motor w/ 19:1 Gearbox | 1 | $50 |
 | SAVOX SC-1251 MG 9kg Servo | 1kg | $50 |
 | 6ch Through-hold Slip Ring | 1kg | $50 |
 | 3mm Aluminum Plate | 1kg | $5 |
@@ -47,7 +47,7 @@ To build the robot system:
 | Mil-Max Pogo Connectors Pair | 1 | $5 |
 | Hall Effect Sensor w/ Magnets | 1 | $10 |
 | TMC5160 Stepper Motor Driver | 2 | $30 |
-| **Estimated Total Cost:** | **-** | **$607** |
+| **Estimated Total Cost:** | **-** | **$647** |
 
 ## Publications
 The design and validation are described in the following publication:
