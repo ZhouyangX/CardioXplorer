@@ -1,6 +1,8 @@
 CANBus Message Table
 ======================
 
+The CardioXplore uses a series of CANBus messages to communicate with other modules, all messages are sent at 1Mbps and with 8 bytes in each message.
+
 CANBus Message Information
 --------------------------
 .. list-table::
