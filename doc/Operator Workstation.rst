@@ -6,4 +6,4 @@ The operator workstation consist of two parts (MCU-based Controller and Display 
 MCU-Based Controller
 --------------------------
 
-This requires 
+This requires the installation of Bluepad32 for Arduino <https://github.com/ricardoquesada/bluepad32-arduino> firmware on the uBlox32 (or NINA) before uploading the Arduino code.
