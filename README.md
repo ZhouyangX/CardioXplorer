@@ -15,7 +15,7 @@ Independent actuators were employed for each DoF to enable flexible reconfigurat
 
 The repository contains:
 - **CAD models** - 3D design files for mechanical parts.
-- **Catheter Models** - 3D design files for 3 commercial catheter handles for ablation therapy.
+- **Catheter Library** - 3D design files for 3 commercial catheter handles for ablation therapy.
 - **Software** - Control code, simulation (Blender Python API), data logger.
 - **Media** - Photos and diagrams of the robot.
 
