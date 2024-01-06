@@ -2,6 +2,11 @@
 
 This repository contains open-source resources for a modular robotic system, designed for catheter ablation procedures, and validated by trainees and cardiologists. However, the modular design of the robot encourages the application of the system in various fields requiring the use of catheters.
 
+Please make sure to reference or acknowledge the use of our repository of you found it useful.
+
+![alt text](https://github.com/ZhouyangX/CardioXplorer/main/robot4.jpg?raw=true)
+
+
 ## Overview
 
 The robot is designed to manipulate commercial catheters in 3 degrees of freedom (DoF):
