@@ -4,7 +4,7 @@ This repository contains open-source resources for a modular robotic system, des
 
 Please make sure to reference or acknowledge the use of our repository of you found it useful.
 
-![alt text](https://github.com/ZhouyangX/CardioXplorer/main/robot4.jpg?raw=true)
+!https://github.com/ZhouyangX/CardioXplorer/main/robot4.jpg
 
 
 ## Overview
