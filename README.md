@@ -22,7 +22,8 @@ The repository contains:
 - **CAD models** - 3D design files for mechanical parts.
 - **Catheter Library** - 3D design files for 3 commercial catheter handles for ablation therapy and corresponding design files to develop silicone inserts for knob-based actuation module.
 - **Software** - Control code, simulation (Blender Python API), data logger.
-- **Media** - Photos and diagrams of the robot.
+- **Media** - Photos and diagrams of the robot and the electronics.
+- **Clincal Feedback** - Questionnaire and feedback results.
 
 ## Getting Started
 
