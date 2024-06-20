@@ -58,7 +58,10 @@ To build the robot system:
 
 ## Publications
 The design and validation are described in the following publication:
-Reference article - Details to be added upon paper acceptance.
+
+Reference article - [https://doi.org/10.3390/robotics13050080](https://doi.org/10.3390/robotics13050080)
+
+Xu, Z., Zeidan, A. M., He, Y., Leung, L., Byrne, C., Sabu, S., ... & Rhode, K. (2024). CardioXplorer: An Open-Source Modular Teleoperative Robotic Catheter Ablation System. Robotics, 13(5), 80.
 
 ## License
 The contents of this repository are made available under the CC License. See LICENSE for details.
